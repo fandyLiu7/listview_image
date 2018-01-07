@@ -5,7 +5,9 @@ package com.fandy.learn.listview_image;
  */
 
 public class Image {
-
+    /**
+    * 所有的网络图片链接
+    */
     public final static String[] imageUrls = new String[]{
             "http://img.my.csdn.net/uploads/201508/05/1438760758_3497.jpg",
             "http://img.my.csdn.net/uploads/201508/05/1438760758_6667.jpg",
