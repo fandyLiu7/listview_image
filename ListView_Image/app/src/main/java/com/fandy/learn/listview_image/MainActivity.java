@@ -12,6 +12,7 @@ import android.widget.ListView;
  */
 public class MainActivity extends AppCompatActivity {
 
+    //哈哈哈
     private MyAdapter myAdapter;
 
     @Override
