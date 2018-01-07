@@ -12,7 +12,7 @@ import android.widget.ListView;
  */
 public class MainActivity extends AppCompatActivity {
 
-    //哈哈哈
+    //自定的adapter
     private MyAdapter myAdapter;
 
     @Override
