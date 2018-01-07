@@ -7,6 +7,8 @@ import android.widget.ListView;
 
 /**
  * listview加载图片的解决方案:
+ * 使用setTag解决
+ * 使用volly的NetWorkImageView
  */
 public class MainActivity extends AppCompatActivity {
 
